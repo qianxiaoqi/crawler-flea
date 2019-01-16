@@ -1,0 +1,7 @@
+MYSQL_HOST = 'localhost'
+MYSQL_DBNAME = 'spider'
+MYSQL_USER = 'root'
+MYSQL_PASSWD = '123456'
+MYSQL_PORT = 3306
+MYSQL_CHARSET = 'utf8'
+MYSQL_UNICODE = True
